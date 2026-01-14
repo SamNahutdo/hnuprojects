@@ -1,7 +1,6 @@
-:grinning:  ***First year Projects C languages***
 
 
-***Here's my c codes 1semFinal - 2ndsemFinal;***
+***1st yr, 2nd yr projects & final projects***
 
 
 
